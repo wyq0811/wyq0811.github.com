@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://wyq0811.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+url: http://twobis.me
+title: 二逼青年的大脑记录器
+subtitle: 
+author: twob
+simple_search: http://google.com.hk/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
