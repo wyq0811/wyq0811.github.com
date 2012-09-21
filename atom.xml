@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[A blog]]></title>
+  <title><![CDATA[二逼青年的大脑记录器]]></title>
   <link href="http://twobis.me/atom.xml" rel="self"/>
   <link href="http://twobis.me/"/>
-  <updated>2012-09-21T18:46:06+08:00</updated>
+  <updated>2012-09-21T19:14:46+08:00</updated>
   <id>http://twobis.me/</id>
   <author>
     <name><![CDATA[twob]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://twobis.me/blog/2012/09/21/hello-world/"/>
+    <updated>2012-09-21T19:03:00+08:00</updated>
+    <id>http://twobis.me/blog/2012/09/21/hello-world</id>
+    <content type="html"><![CDATA[<p>这是我的第一篇文章 只是用来测试一下这些东西是不是都正确运行了。</p>
+
+<p>但愿一切顺利！！</p>
+]]></content>
+  </entry>
   
 </feed>
