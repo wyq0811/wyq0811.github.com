@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[二逼青年的大脑记录器]]></title>
+  <title><![CDATA[二逼青年大脑记录装置]]></title>
   <link href="http://twobis.me/atom.xml" rel="self"/>
   <link href="http://twobis.me/"/>
-  <updated>2012-09-21T21:49:20+08:00</updated>
+  <updated>2012-09-21T22:54:44+08:00</updated>
   <id>http://twobis.me/</id>
   <author>
     <name><![CDATA[twob]]></name>
@@ -18,9 +18,21 @@
     <link href="http://twobis.me/blog/2012/09/21/hello-world/"/>
     <updated>2012-09-21T19:03:00+08:00</updated>
     <id>http://twobis.me/blog/2012/09/21/hello-world</id>
-    <content type="html"><![CDATA[<p>这是我的第一篇文章 只是用来测试一下这些东西是不是都正确运行了。</p>
+    <content type="html"><![CDATA[<h2>第一篇文章</h2>
+
+<p>这是我的第一篇文章 只是用来测试一下这些东西是不是都正确运行了。</p>
 
 <p>但愿一切顺利！！</p>
+
+<h2>图片图床的简单测试</h2>
+
+<p><img src="http://ww3.sinaimg.cn/large/a74ecc4cjw1dx4i4djww0j.jpg" alt="image" /></p>
+
+<h2>小结</h2>
+
+<p>感谢github 感谢octopress作者 感谢<a href="http://weibotuchuang.sinaapp.com/bookmark.html">微博是个好图床</a></p>
+
+<p>这片博文只是来测试这个刚刚搭建的平台，应该很快就会有第二篇文章。</p>
 ]]></content>
   </entry>
   
