@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[二逼青年大脑记录装置]]></title>
-  <link href="http://twobis.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: geek | 二逼青年大脑记录装置]]></title>
+  <link href="http://twobis.me/blog/categories/geek/atom.xml" rel="self"/>
   <link href="http://twobis.me/"/>
   <updated>2012-09-23T01:26:25+08:00</updated>
   <id>http://twobis.me/</id>
@@ -51,7 +51,7 @@
 
 <ol>
 <li>在github的个人设置里添加ssh keys(根据github的指南来吧)</li>
-<li>创建一个git，名字叫&#8221;xxxxxx.github.com&#8221;,如图。<br/>
+<li>创建一个git，名字叫"xxxxxx.github.com",如图。<br/>
 <img src="http://ww1.sinaimg.cn/large/a74ecc4cjw1dx5srhrfy1j.jpg" alt="image" /></li>
 <li>输入命令<code>rake setup_github_pages</code><br/>
 之后程序会问你你的git地址，根据提示输入就好。<br/>
@@ -84,29 +84,6 @@
 <h2>小结</h2>
 
 <p>github pages所提供的空间，稳定无限制。不过最大的缺点是有非常长的缓存更新时间。一些更改作出之后，不刷新浏览器是看不到更改的。所以，如果你有虚拟空间或者vps的话，还是推荐使用自己的。更多的内容可以google或者访问<a href="http://octopress.org">octopress.org</a>来获取。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://twobis.me/blog/2012/09/21/hello-world/"/>
-    <updated>2012-09-21T19:03:00+08:00</updated>
-    <id>http://twobis.me/blog/2012/09/21/hello-world</id>
-    <content type="html"><![CDATA[<h2>第一篇文章</h2>
-
-<p>这是我的第一篇文章 只是用来测试一下这些东西是不是都正确运行了。</p>
-
-<p>但愿一切顺利！！</p>
-
-<h2>图片图床的简单测试</h2>
-
-<p><img src="http://ww3.sinaimg.cn/large/a74ecc4cjw1dx4i4djww0j.jpg" alt="image" /></p>
-
-<h2>小结</h2>
-
-<p>感谢github 感谢octopress作者 感谢<a href="http://weibotuchuang.sinaapp.com/bookmark.html">微博是个好图床</a></p>
-
-<p>这片博文只是来测试这个刚刚搭建的平台，应该很快就会有第二篇文章。</p>
 ]]></content>
   </entry>
   
