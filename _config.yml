@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://twobis.me
-title: 二逼青年的大脑记录器
+title: 二逼青年大脑记录装置
 subtitle: 
 author: twob
 simple_search: http://google.com.hk/search
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-35003104-1
 
 # Facebook Like
 facebook_like: false
